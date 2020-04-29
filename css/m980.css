@@ -1,0 +1,18 @@
+body {
+	 background-color:gold;
+}
+ul{
+	width: 150%
+}
+.left{
+	width: 20%;
+	height: 100%;
+	float: left;
+}
+header{
+	height: 100px	
+}
+h1{
+	color: #000
+	font-size:100px;
+}
